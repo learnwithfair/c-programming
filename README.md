@@ -1,8 +1,8 @@
 Thanks for visiting my GitHub account!!
 
 ## C Programming
-**C** is a general-purpose programming language, developed in 1972, and still quite popular. C is a very powerful language.<br>
-It has been used to develop ***operating systems, databases, applications, etc.***
+![C](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFzNS3Yl4itrrySVP34gMJFtPR_GUMhVlqra0XqvT_tRCuDCic_qp_9_AODjvTQyb7h-o&usqp=CAU)
+ is a general-purpose programming language, developed in 1972, and still quite popular. C is a very powerful language. It has been used to develop ***operating systems, databases, applications, etc.***
 
 
 
