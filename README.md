@@ -9,6 +9,8 @@ Thanks for visiting my GitHub account!!
 ## Source Code (Download)
 [Click Here](https://mega.nz/folder/Zf0DQbjT#u901b6ydYdh0850I1OZI-g)
 
+## Slide
+Visit-> https://mega.nz/file/VOs2ESgA#k1pVAyt9jPlyDSJiKEUe97-ZAGpcvbQJRn2eEnrIh3A
 
 ## Project Screenshot
 
