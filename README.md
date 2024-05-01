@@ -12,6 +12,16 @@ Thanks for visiting my GitHub account!!
 ## Slide
 Visit-> https://mega.nz/file/VOs2ESgA#k1pVAyt9jPlyDSJiKEUe97-ZAGpcvbQJRn2eEnrIh3A
 
+## Required Software (Download)
+
+Code::Blocks, Download(mingw-setup.exe, FossHUB)-> [Download](https://www.codeblocks.org/downloads/binaries/)
+
+### Downloading Process
+
+- Select codeblocks-20.03mingw-setup.exe
+- Click on FossHUB
+
+
 ## Project Screenshot
 
 |   |   |
@@ -40,6 +50,12 @@ Visit-> https://mega.nz/file/VOs2ESgA#k1pVAyt9jPlyDSJiKEUe97-ZAGpcvbQJRn2eEnrIh3
 	::       :: ::             ::::        :: ::             ::  ::
 
 ```
+
+
+
+## Follow Me
+
+<img src ="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" height="15px" width="15px"/> [Facebook](http://facebook.com/learnwithfair), <img src ="https://image.similarpng.com/very-thumbnail/2021/10/Youtube-icon-design-on-transparent-background-PNG.png" height="20px" width="20px"/> [Youtube](http://youtube.com/@learnwithfair), <img src ="https://i.pinimg.com/originals/fa/ea/02/faea02f412415becfb4939d2b6431c28.jpg" height="15px" width="15px"/> [Instagram](http://instagram.com/learnwithfair)
 
 
 
